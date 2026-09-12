@@ -1,0 +1,21 @@
+Diese Datei enthält Beispielsätze zum Testen der App. Erwartetes Ergebnis in Klammern.
+
+1. Klimafreundliche Verpackung, denn wir verwenden für die Herstellung dieser Verpackung 100 % Energie aus erneuerbaren Quellen. (erwartet: Grün)
+
+2. Klimafreundliche Verpackung. (erwartet: Rot)
+
+3. Unser Produkt ist bienenfreundlich, weil es ohne den Einsatz insektenschädlicher, chemisch-synthetischer Pestizide hergestellt wird. (erwartet: Grün)
+
+4. Unser Grundwasserschutz durch verantwortungsvolle Bio-Landwirtschaft. (erwartet: Grün)
+
+5. Unser Produkt ist klimaneutral. (erwartet: Rot, Kategorie 2)
+
+6. Dieses Produkt ist CO2-neutral und klimapositiv. (erwartet: Rot, Kategorie 2, zwei Treffer)
+
+7. Wir sind Bioland-zertifiziert. (erwartet: Gelb, Kategorie 3)
+
+8. Bioland steht für eine verantwortungsvolle Bio-Landwirtschaft. (erwartet: kein Treffer, da Bio-Bezug vorhanden)
+
+9. Bewusster Bio-Anbau nach Bioland-Richtlinien. (erwartet: kein Treffer, da Bio-Bezug vorhanden)
+
+10. Unsere Produkte sind umweltfreundlich und nachhaltig. (erwartet: Rot, zwei Treffer, keine Begründung)
